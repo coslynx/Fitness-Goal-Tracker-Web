@@ -1,0 +1,31 @@
+# Build artifacts
+dist/
+
+# Log files
+*.log
+npm-debug.log*
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+
+# Package manager files
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.swp
+
+# macOS files
+.DS_Store
+
+# Other files
+node_modules/
+.env
+*.env
+coverage/
+
+# Assets
+packages/assets/*
